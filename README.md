@@ -1,10 +1,10 @@
 <div align="center">
   
-# Charlie Lindgren
+# Charlie Lindgren, PhD
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Algorithmic+Pricing+Research;Computational+Economics;Data-Driven+Decision+Making" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Price+Dispersion+%26+Online+Markets;Cross-Border+E-Commerce+Research;Data+Analysis+%26+Visualization" alt="Typing SVG" />
 
-**Researcher & Lecturer** · Sweden
+**Senior Lecturer** · Dalarna University, Sweden
 
 </div>
 
@@ -12,19 +12,33 @@
 
 ## About Me
 
-I'm a researcher and lecturer focused on algorithmic pricing in retail markets. My work sits at the intersection of economics, data science, and computational methods—finding practical approaches to real-world economic problems.
+I'm a senior lecturer and researcher at Dalarna University specializing in online price dispersion, cross-border e-commerce, and algorithmic pricing in retail markets. My research uses microdata and computational methods to understand how prices behave across digital marketplaces.
 
-**Current Focus:** Algorithmic pricing strategies in retail
+I also teach data analysis, visualization, and programming in R and Python—and I'm passionate about making these skills accessible to students at all levels.
 
-**Interests:** Economics 📊 · Data Science 🔬 · Machine Learning 🤖 · Optimization ⚡
+**Current Focus:** Nordic online retail market integration and cross-border transaction costs
+
+**Interests:** E-commerce 🛒 · Price Dynamics 📊 · Data Science 🔬 · Teaching 🎓
 
 **Fun fact:** Once became SAS Diamond member due to a system error ✈️
 
-## Current Work
+---
 
-- **Research:** Algorithmic pricing strategies and their market implications
-- **Teaching:** Economics, quantitative methods, and data analysis
-- **Exploring:** Machine learning applications in economic modeling
+## Selected Publications
+
+- **Carling, Lindgren & Rudholm (2025)** — *Market Integration in Nordic Online Retail Markets*, Review of International Economics
+- **Lindgren, Li & Rudholm (2022)** — *Why do firms compete on price comparison websites?*, Int. Review of Retail, Distribution and Consumer Research
+- **Lindgren, Huq & Carling (2021)** — *Who are the intended users of CSR reports?*, Sustainability
+- **Lindgren, Daunfeldt, Rudholm & Yella (2020)** — *Is intertemporal price discrimination the cause of price dispersion?*, Applied Economics Letters
+
+---
+
+## Teaching
+
+- **DAT301: Exploring Data in R and Python** — Arizona State University (2025–2026)
+- **Data Analysis & Visualization** — Dalarna University
+- **Programming in R and Python** — Dalarna University
+- Guest Lecturer in **Enterprise Architecture & Database Programming** — Nanchang University, China
 
 ---
 
@@ -32,15 +46,28 @@ I'm a researcher and lecturer focused on algorithmic pricing in retail markets. 
 
 <div align="center">
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+**Languages**
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Data Science & Analysis**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=flat-square&logo=tidyverse&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
-
-**Focus Areas:** Statistical modeling · Econometrics · Predictive modeling · Numerical methods
 
 ---
 
@@ -48,8 +75,8 @@ I'm a researcher and lecturer focused on algorithmic pricing in retail markets. 
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=clg-du&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clg-du&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=charlie-lindgren&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie-lindgren&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 
 </div>
 
@@ -59,9 +86,9 @@ I'm a researcher and lecturer focused on algorithmic pricing in retail markets. 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charlielindgren)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clg@du.se)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
 
 </div>
 
@@ -69,6 +96,6 @@ I'm a researcher and lecturer focused on algorithmic pricing in retail markets. 
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=clg-du&color=blue&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=charlie-lindgren&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
